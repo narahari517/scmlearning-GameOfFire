@@ -13,6 +13,7 @@
 * Channeling: number of actions per turn
 * Speed: determines turn order and reaction speed value
 * Focus: reduces deck size
+I'm not sure what you mean with Focus
 * Memory: increases hand size
 * color identity
 
