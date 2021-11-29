@@ -39,3 +39,4 @@ If you would cast a spell or activate an activated ability, instead do the follo
 
 Effects in card text override these effects.
 
+#build
